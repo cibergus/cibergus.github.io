@@ -1,18 +1,32 @@
-# [preda1](https://cibergus.github.io/preda1/) (UNED-GradoII-PrEDA)  
-Programming and Advanced Data Structures    
-- (Subject from Bachelor's degree in Computer Engineering)  
+# Programming and Advanced Data Structures (PEC1)    
+[preda1](https://cibergus.github.io/preda1/) - (Subject from Bachelor's degree in Computer Engineering)  
 
 
 Programación y Estructuras de Datos Avanzadas  
 - (Asignatura del Grado Universitario en Ingeniería Informática)
 
 ---
-# [preda2](https://cibergus.github.io/preda2/) (UNED-GradoII-PrEDA)  
-Programming and Advanced Data Structures    
-- (Subject from Bachelor's degree in Computer Engineering)  
+# Programming and Advanced Data Structures (PEC2)    
+[preda2](https://cibergus.github.io/preda2/) - (Subject from Bachelor's degree in Computer Engineering)  
 
 
 Programación y Estructuras de Datos Avanzadas  
+- (Asignatura del Grado Universitario en Ingeniería Informática)
+
+---
+# Compilers - Language Processors I  (PEC1)    
+[pl1](https://cibergus.github.io/pl1/) - (Subject from Bachelor's degree in Computer Engineering)  
+
+
+Compiladores - Procesadores del Lenguaje I 
+- (Asignatura del Grado Universitario en Ingeniería Informática)
+
+---
+# Compilers - Language Processors II (PEC1)    
+[pl2](https://cibergus.github.io/pl2/) - (Subject from Bachelor's degree in Computer Engineering)  
+
+
+Compiladores - Procesadores del Lenguaje II 
 - (Asignatura del Grado Universitario en Ingeniería Informática)
 
 ---
