@@ -4,15 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="GdxvCq1TfTNg5mQ6eXH_-1" value="" style="strokeColor=#666666;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rackGeneral.rackCabinet3;fillColor2=#f4f4f4;container=1;collapsible=0;childLayout=rack;allowGaps=1;marginLeft=9;marginRight=9;marginTop=21;marginBottom=22;textColor=#666666;numDisp=off;" parent="1" vertex="1">
-          <mxGeometry x="560" y="610" width="180" height="230" as="geometry" />
-        </mxCell>
-        <mxCell id="GdxvCq1TfTNg5mQ6eXH_-7" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.physical_host;fillColor=#2072B8;" parent="GdxvCq1TfTNg5mQ6eXH_-1" vertex="1">
-          <mxGeometry x="9" y="101" width="162" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="GdxvCq1TfTNg5mQ6eXH_-6" value="" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rack.dell.poweredge_m520;" parent="GdxvCq1TfTNg5mQ6eXH_-1" vertex="1">
-          <mxGeometry x="9" y="21" width="162" height="29" as="geometry" />
-        </mxCell>
         <mxCell id="GdxvCq1TfTNg5mQ6eXH_-2" value="" style="strokeColor=#666666;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rackGeneral.rackCabinet3;fillColor2=#f4f4f4;container=1;collapsible=0;childLayout=rack;allowGaps=1;marginLeft=33;marginRight=9;marginTop=21;marginBottom=22;textColor=#666666;numDisp=ascend;" parent="1" vertex="1">
           <mxGeometry x="1340" y="619.0699999999999" width="169" height="220.93" as="geometry" />
         </mxCell>
@@ -62,24 +53,6 @@
         </mxCell>
         <mxCell id="GdxvCq1TfTNg5mQ6eXH_-20" value="Switch gestionable" style="image;html=1;image=img/lib/clip_art/networking/Switch_128x128.png" parent="1" vertex="1">
           <mxGeometry x="880" y="383.95" width="120" height="58.37" as="geometry" />
-        </mxCell>
-        <mxCell id="UxFv_I-L1PYL_ZdudsUN-1" value="" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rack.general.cat5e_enhanced_patch_panel_48_ports;" parent="1" vertex="1">
-          <mxGeometry x="270" y="70" width="160" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="GdxvCq1TfTNg5mQ6eXH_-3" value="" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rack.dell.dell_poweredge_2u;" parent="1" vertex="1">
-          <mxGeometry x="749" y="861.0699999999999" width="178" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="GdxvCq1TfTNg5mQ6eXH_-9" value="" style="html=1;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rack.hpe_aruba.gateways_controllers.aruba_7024_mobility_controller_front;" parent="1" vertex="1">
-          <mxGeometry x="560" y="585" width="178" height="15" as="geometry" />
-        </mxCell>
-        <mxCell id="GdxvCq1TfTNg5mQ6eXH_-5" value="" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rack.dell.dell_poweredge_2u;" parent="1" vertex="1">
-          <mxGeometry x="750" y="930" width="178" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="GdxvCq1TfTNg5mQ6eXH_-4" value="" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rack.dell.dell_poweredge_4u;" parent="1" vertex="1">
-          <mxGeometry x="750" y="960" width="178" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="GdxvCq1TfTNg5mQ6eXH_-10" value="" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rack.dell.dell_poweredge_4u;" parent="1" vertex="1">
-          <mxGeometry x="750" y="1020" width="178" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qjA5OxGg3spYhjRqrUWt-20" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="UxFv_I-L1PYL_ZdudsUN-12">
           <mxGeometry relative="1" as="geometry">
